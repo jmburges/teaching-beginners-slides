@@ -1,7 +1,3 @@
-These are the slides for my
-[talk](http://www.meetup.com/The-Brooklyn-iPhone-and-iPad-Developer-Meetup/events/138137442/)
-at the Brooklyn iOS Meetup on September 17th.
-
 Usage
 =====
 
