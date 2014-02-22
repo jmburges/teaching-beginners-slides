@@ -102,4 +102,11 @@ Superior players skills derived from their ability to encode position into large
 
 ---
 
+## Keep it simple!
+
+  * Immutable Objects
+  * TDD your Race Conditions
+
+---
+
 # Come Talk!
