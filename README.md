@@ -1,3 +1,6 @@
+If you don't want to clone to get to the slides, just click on
+[content.md](content.md) to see the content!
+
 Usage
 =====
 
