@@ -1,6 +1,8 @@
 # Me!
 
-I work at The Flatiron School
+  * I'm (mostly) self-taught
+  * By the end of college I didn't like programming
+  * Now I work at The Flatiron School
 
 ---
 
@@ -13,7 +15,7 @@ How can we craft the most efficient experience?
 
 ---
 
-# Passion
+# 1. Passion
 
 ---
 
@@ -24,7 +26,7 @@ How can we craft the most efficient experience?
 
 ---
 
-# Feedback
+# 2. Feedback
 
 ---
 
@@ -40,7 +42,7 @@ Early, Early, Early
 
 ---
 
-# Make It Simple
+# 3. Make It Simple
 
 ---
 
@@ -56,7 +58,7 @@ Early, Early, Early
 
 ---
 
-# Learn The Language
+# 4. Learn The Language
 
 ---
 
@@ -79,7 +81,7 @@ Not too much magic
 
 ---
 
-# Teach Patterns
+# 5. Teach Patterns
 
 ---
 
@@ -87,7 +89,16 @@ Not too much magic
 
 ---
 
-# Multi-Threading
+## William Chase and Herbert Simon
+Superior players skills derived from their ability to encode position into larger chunks.
+
+---
+
+## Pattern Matching
+
+---
+
+# 6. Multi-Threading
 
 ---
 
